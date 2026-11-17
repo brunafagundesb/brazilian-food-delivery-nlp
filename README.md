@@ -32,6 +32,8 @@ The sentiment labels were derived from the review score:
 
 The dataset is imbalanced, with positive reviews representing the majority class.
 
+The project code is licensed under the MIT License. The dataset remains subject to its original license and terms of use.
+
 ## Methodology
 
 ### 1. Data Preparation
